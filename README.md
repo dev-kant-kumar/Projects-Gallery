@@ -28,7 +28,7 @@ Have questions, ideas, or just want to chat? Join the conversation on [Discussio
 
 ## Stay Updated
 
-Follow us on [Twitter](link-to-twitter) and [LinkedIn](link-to-linkedin) for the latest updates, events, and project highlights.
+Follow us on [Twitter](https://twitter.com/dev_kant_kumar) and [LinkedIn](https://www.linkedin.com/in/devkantkumar/) for the latest updates, events, and project highlights.
 
 ## License
 
