@@ -24,7 +24,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our commun
 
 ## Get in Touch
 
-Have questions, ideas, or just want to chat? Join the conversation on [Discussions](link-to-discussions) or connect with us on [social media platforms].
+Have questions, ideas, or just want to chat? Join the conversation on [Discussions](https://github.com/dev-kant-kumar/Projects-Gallery/discussions) or connect with us on [social media platforms].
 
 ## Stay Updated
 
